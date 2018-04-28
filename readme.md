@@ -13,6 +13,8 @@
   - ```brew cask install visual-studio-code```
 - Install 'code' command for CLI
   - Open the Command Palette in VSCode (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+  - Open files or folders in VSCode from CLI
+    - ```code INSERT_FILENAME_OR_PATH```
 - Add shortcuts to toggle Sidebar & Activity Bar
   - Open the Command Palette in VSCode (⇧⌘P) and type 'Open Keyboard Shortcuts'
      - Search for 'Activity Bar' and set the keybinding (I prefer cmd + .)
