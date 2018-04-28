@@ -3,7 +3,7 @@
 ## Objectives
 - [ ] Install VSCode from the CLI
 - [ ] Install 'code' command for CLI
-- [ ] Add keyboard shortcuts to toggle Sidebar & Activity
+- [ ] Add keyboard shortcuts to toggle Sidebar & Activity Bar
 - [ ] Reveal super secret shortcuts of ultimate awesomeness and laziness
 - [ ] Describe some useful extensions
 - [ ] Explain how to adjust User settings and Extension settings
@@ -16,21 +16,22 @@
 - Add shortcuts to toggle Sidebar & Activity Bar
   - Open the Command Palette in VSCode (⇧⌘P) and type 'Open Keyboard Shortcuts'
      - Search for 'Activity Bar' and set the keybinding (I prefer cmd + .)
-     - Search  for 'Toggle Sidebar Visibility' and set the keybinding (I prefer cmd + \)
-- Open User Settings
-  - (cmd + ,)
+     - Search  for 'Toggle Sidebar Visibility' and set the keybinding (I prefer cmd + \ )
 
 ### Shortcuts
-- Open Command Palette (cmd + shift + P)
-- Open CLI in VSCode (ctrl + ~)
-- Copy line up or down (shift + cmd + up/down arrow)
-- Move line up or down (option + up/down arrow)
-- Copy/cut the entire line without having to select it (ctrl + c/ctrl + x)
-- Zen Mode (shift + ctrl + cmd + F )
-- Jump to file from relative path in imports etc.(cmd + click the relative path name)
+- Open Command Palette ( cmd + shift + P )
+- Open CLI in VSCode ( ctrl + ~ )
+- Copy line up or down ( shift + cmd + up/down arrow )
+- Move line up or down ( option + up/down arrow )
+- Copy/cut the entire line without having to select it ( ctrl + c/ctrl + x )
+- Zen Mode ( shift + ctrl + cmd + F )
+- Jump to file from relative path in imports etc.( cmd + click the relative path name )
+- Open User Settings ( cmd + , )
+
 ### Atom Transition Extensions
 - [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 - [Atom JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet)
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
 ### Useful Extensions
