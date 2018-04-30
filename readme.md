@@ -12,23 +12,28 @@
 - Install VSCode from the CLI
   - ```brew cask install visual-studio-code```
 - Install 'code' command for CLI
-  - Open the Command Palette in VSCode (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
-  - Open files or folders in VSCode from CLI
-    - ```code INSERT_FILENAME_OR_PATH```
+  - Open the Command Palette in VSCode ( shift + cmd + P ) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+  - ```code INSERT_FILENAME_OR_PATH```
 - Add shortcuts to toggle Sidebar & Activity Bar
-  - Open the Command Palette in VSCode (⇧⌘P) and type 'Open Keyboard Shortcuts'
-     - Search for 'Activity Bar' and set the keybinding (I prefer cmd + .)
-     - Search  for 'Toggle Sidebar Visibility' and set the keybinding (I prefer cmd + \ )
+  - Open the Command Palette in VSCode ( shift + cmd + P ) and type 'Open Keyboard Shortcuts'
+  - Open files or folders in VSCode from
+     - Search for 'Activity Bar' and set the keybinding ( I prefer cmd + . )
+     - Search  for 'Toggle Sidebar Visibility' and set the keybinding ( I prefer cmd + \ )
+- [VSCode Docs](https://code.visualstudio.com/docs)
+- [VSCode Extension Marketplace](https://marketplace.visualstudio.com/vscode)
+- [Great Article on VSCode](https://vscodecandothat.com/)
 
 ### Shortcuts
 - Open Command Palette ( cmd + shift + P )
 - Open CLI in VSCode ( ctrl + ~ )
 - Copy line up or down ( shift + cmd + up/down arrow )
 - Move line up or down ( option + up/down arrow )
+- Find & Replace ( cmd + F )
 - Copy/cut the entire line without having to select it ( ctrl + c/ctrl + x )
 - Zen Mode ( shift + ctrl + cmd + F )
 - Jump to file from relative path in imports etc.( cmd + click the relative path name )
 - Open User Settings ( cmd + , )
+- [Shortcuts Cheat Sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ### Atom Transition Extensions
 - [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
