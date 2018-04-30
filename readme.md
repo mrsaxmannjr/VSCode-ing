@@ -1,12 +1,12 @@
 # How to VSCode/Atomize VSCode
 
 ## Objectives
-- [ ] Install VSCode from the CLI
-- [ ] Install 'code' command for CLI
-- [ ] Add keyboard shortcuts to toggle Sidebar & Activity Bar
-- [ ] Reveal super secret shortcuts of ultimate awesomeness and laziness
-- [ ] Describe some useful extensions
-- [ ] Explain how to adjust User settings and Extension settings
+- [X] Install VSCode from the CLI
+- [X] Install 'code' command for CLI
+- [X] Add keyboard shortcuts to toggle Sidebar & Activity Bar
+- [X] Reveal super secret shortcuts of ultimate awesomeness and laziness
+- [X] Describe some useful extensions
+- [X] Explain how to adjust User settings and Extension settings
 
 ## Resources
 - Install VSCode from the CLI
