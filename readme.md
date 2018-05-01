@@ -26,7 +26,7 @@
 ### Shortcuts
 - Open Command Palette ( cmd + shift + P )
 - Open CLI in VSCode ( ctrl + ~ )
-- Copy line up or down ( shift + cmd + up/down arrow )
+- Copy line up or down ( shift + option + up/down arrow )
 - Move line up or down ( option + up/down arrow )
 - Find & Replace ( cmd + F )
 - Copy/cut the entire line without having to select it ( ctrl + c/ctrl + x )
