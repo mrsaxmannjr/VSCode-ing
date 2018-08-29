@@ -1,4 +1,4 @@
-# How to VSCode/Atomize VSCode
+# How to VSCode - a quick guide for VSCode noobs and/or how to transition to VSCode from Atom
 
 ## Objectives
 - [X] Install VSCode from the CLI
